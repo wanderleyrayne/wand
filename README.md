@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋,Eu sou Wanderley Rayne</h1>
-<h3 align="center">Apaixonado por ciência e análise de dados em ambiente Big Data</h3>
+<h3 align="center">Apaixonado por ciência de dados e segurança cibernetica</h3>
 
-- 🌱 Atualmente estou aprendendo **Microsoft Power Plataforma e RPA**
+- 🌱 Atualmente estou aprendendo **Microsoft Power Automate e Tecnlogia voltado para área de segurança**
 
 - 💬 Me pergunte sobre **Power BI, SQL, Python, MongoDB, API e Excel**
 
